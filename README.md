@@ -1,1 +1,1 @@
-# genericos_delimitados
+# Genéricos delimitados
